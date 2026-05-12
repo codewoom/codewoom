@@ -1,228 +1,218 @@
 <div align="center">
 
-# 🌀 CODEWOOM
+# CODEWOOM
 
 ### **Elite Digital Product & Strategy Agency**
 
-[![Website](https://img.shields.io/badge/🌐_Website-codewoom.com-7C3AED?style=for-the-badge&labelColor=1a1a2e)](https://codewoom.com)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@codewoom-E4405F?style=for-the-badge&labelColor=1a1a2e)](https://www.instagram.com/codewoom)
-[![Email](https://img.shields.io/badge/📧_Email-support@codewoom.com-06B6D4?style=for-the-badge&labelColor=1a1a2e)](mailto:support@codewoom.com)
+[![Website](https://img.shields.io/badge/Website-codewoom.com-7C3AED?style=for-the-badge&labelColor=1a1a2e)](https://codewoom.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@codewoom-E4405F?style=for-the-badge&labelColor=1a1a2e)](https://www.instagram.com/codewoom)
+[![Email](https://img.shields.io/badge/Email-support@codewoom.com-06B6D4?style=for-the-badge&labelColor=1a1a2e)](mailto:support@codewoom.com)
 
 <br/>
 
-> **We don't just build products — we architect digital masterpieces.**
->
-> From complex cloud architectures to immersive user experiences, Codewoom transforms ambitious ideas into high-performance digital realities.
+**Transforming ambitious ideas into high-performance digital solutions.**
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=100%2B+Successful+Projects+Delivered;25%2B+Industry+Experts+On+Board;99%25+Client+Satisfaction+Rate;Serving+Clients+in+15%2B+Countries" alt="Codewoom Stats" />
+We architect comprehensive digital products and strategies that drive measurable business impact for startups, scale-ups, and enterprises worldwide.
 
 </div>
 
 ---
 
-## 🏢 About Codewoom
+## About Codewoom
 
-**Codewoom** is a production-grade digital agency specializing in end-to-end product development, strategic design, and growth marketing. We partner with startups, scale-ups, and enterprises to build ecosystems that aren't just functional — they are **foundational**.
+Codewoom is a production-grade digital agency specializing in end-to-end product development, strategic design, and growth marketing. Our multi-disciplinary team of **25+ industry experts** delivers integrated solutions across engineering, design, and marketing intelligence.
 
-Our multi-disciplinary team of **25+ industry experts** brings together engineering excellence, design innovation, and marketing intelligence to deliver solutions that drive measurable business impact.
+We partner with forward-thinking organizations to build scalable, user-centric digital products that solve real business problems and accelerate growth.
 
 <div align="center">
 
-| 🚀 **100+ Products** | 👨‍💻 **25+ Experts** | ✅ **99% Success** | 🌍 **15+ Countries** |
+| **100+ Products** | **25+ Experts** | **99% Success Rate** | **15+ Countries** |
 |:---:|:---:|:---:|:---:|
-| Delivered globally | On our team | Client satisfaction | Worldwide reach |
+| Delivered globally | Industry specialists | Client satisfaction | Worldwide presence |
 
 </div>
 
 ---
 
-## 🎯 Our Services
+## Our Services
 
-We offer a comprehensive suite of digital services organized into **four core verticals**:
+We deliver a comprehensive suite of digital services organized into four core practice areas:
 
-### 💻 Development
+### 💻 Software Development
 
 | Service | Description |
 |:---|:---|
-| **🌐 Web Development** | Modern, responsive websites and web applications built with Next.js, React, and cutting-edge frameworks for maximum performance, SEO, and scalability. |
-| **📱 App Development** | Native and cross-platform mobile applications (iOS & Android) tailored to your business needs with seamless user experiences. |
-| **⚙️ Backend Development** | Scalable, secure, and high-performance backend architectures — REST APIs, real-time systems, microservices, and cloud-native infrastructure powered by Node.js, Express, and PostgreSQL. |
-| **☁️ Cloud Solutions** | Reliable cloud infrastructure, CI/CD pipelines, Docker containerization, and AWS deployment services ensuring 99.9% uptime. |
+| **Web Development** | Modern, scalable web applications built with Next.js, React, and contemporary frameworks. Full-stack solutions with SEO optimization, responsive design, and high-performance architecture. |
+| **Mobile Development** | Native and cross-platform mobile applications (iOS & Android) with seamless user experiences and enterprise-grade reliability. |
+| **Backend Architecture** | Scalable, secure backend systems including REST APIs, real-time platforms, microservices, and cloud-native infrastructure built with Node.js and Express. |
+| **Cloud Infrastructure** | Enterprise-grade cloud architecture, CI/CD pipelines, containerization, and AWS deployment services with 99.9% uptime SLA. |
 
 ### 📈 Marketing & Growth
 
 | Service | Description |
 |:---|:---|
-| **🔍 SEO Optimization** | Data-driven search engine optimization strategies to boost your online visibility, rank higher on Google, and drive organic traffic at scale. |
-| **📣 Digital Marketing** | Comprehensive digital marketing campaigns including PPC, content marketing, email automation, and conversion rate optimization. |
-| **📱 Social Media Marketing** | Strategic social media management, content creation, influencer partnerships, and audience engagement across all major platforms. |
+| **SEO Strategy** | Data-driven search engine optimization to improve organic visibility, increase qualified traffic, and maximize ROI. |
+| **Digital Marketing** | Comprehensive campaigns including PPC, content marketing, email automation, and conversion optimization. |
+| **Social Media Management** | Strategic social media marketing, content strategy, audience engagement, and community building across major platforms. |
 
-### 🎨 UI/UX Design
-
-| Service | Description |
-|:---|:---|
-| **🖌️ UI Design** | Pixel-perfect, intuitive user interface design with modern aesthetics — glassmorphism, micro-animations, dark mode, and responsive layouts that feel premium. |
-| **🔬 UX Research** | In-depth user research, usability testing, wireframing, and prototyping to ensure every product decision is backed by real user data and behavioral insights. |
-
-### 🧊 3D Modeling & Visualization
+### 🎨 Design & UX
 
 | Service | Description |
 |:---|:---|
-| **📦 Product Visualization** | Photorealistic 3D product renders for e-commerce, marketing campaigns, and product launches that elevate your brand presence. |
-| **🏛️ Architectural Visualization** | Stunning 3D architectural renders and walkthroughs for real estate, interior design, and construction projects. |
-| **🧑‍🎤 Character Modeling** | High-fidelity 3D character design and modeling for gaming, animation, virtual reality, and brand mascots. |
+| **User Interface Design** | Pixel-perfect, intuitive interface design with modern aesthetics, micro-interactions, and responsive layouts that elevate brand perception. |
+| **User Research & Testing** | In-depth research, usability testing, wireframing, and prototyping to validate product decisions with real user data. |
 
----
+### 🧊 3D Visualization
 
-## ⚡ How We Work
-
-Our battle-tested development lifecycle ensures precision, transparency, and seamless delivery:
-
-```
-┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
-│ 💡       │    │ 🔍       │    │ 🖊️       │    │ 💻       │
-│ IDEATION │───▶│ PLANNING │───▶│  DESIGN  │───▶│ DEVELOP  │
-└──────────┘    └──────────┘    └──────────┘    └──────────┘
-                                                      │
-┌──────────┐    ┌──────────┐    ┌──────────┐    ┌─────▼────┐
-│ 🛟       │    │ 🚀       │    │ 🔁       │    │ 🛡️       │
-│ SUPPORT  │◀───│  LAUNCH  │◀───│ FEEDBACK │◀───│ TESTING  │
-└──────────┘    └──────────┘    └──────────┘    └──────────┘
-```
-
-| Phase | What We Do |
+| Service | Description |
 |:---|:---|
-| **1. Ideation** | Define project scope, goals, and high-level objectives with stakeholders |
-| **2. Planning** | Create technical roadmap, architecture diagrams, and sprint-based timelines |
-| **3. Design** | Craft intuitive UI/UX prototypes and interactive design systems |
-| **4. Development** | Engineer core features with clean, testable, production-grade code |
-| **5. Testing** | Rigorous QA — unit tests, integration tests, security audits, and performance benchmarks |
-| **6. Feedback** | Iterate based on client reviews and real user testing data |
-| **7. Launch** | Deploy to production with monitoring, rollback strategies, and zero-downtime releases |
-| **8. Support** | Ongoing maintenance, feature updates, and 24/7 technical support |
+| **Product Visualization** | Photorealistic 3D renders for e-commerce, marketing campaigns, and product launches. |
+| **Architectural Rendering** | High-fidelity 3D visualizations for real estate, interior design, and construction projects. |
+| **3D Character Design** | Professional character modeling for gaming, animation, VR, and brand applications. |
 
 ---
 
-## 🔧 Tech Stack
+## Engagement Model
+
+Our proven methodology ensures precision, transparency, and on-time delivery:
+
+```
+Phase 1       Phase 2       Phase 3       Phase 4       Phase 5
+DISCOVERY  → STRATEGY  →  DESIGN   →  DEVELOPMENT →  QA & TESTING
+   │            │            │            │              │
+   └────────────┴────────────┴────────────┴──────────────┘
+                          │
+                    Phase 6: LAUNCH & SUPPORT
+```
+
+| Phase | Activities |
+|:---|:---|
+| **Discovery** | Requirements gathering, stakeholder interviews, market analysis, and scope definition |
+| **Strategy** | Technical roadmap, architecture design, resource planning, and project timeline |
+| **Design** | UI/UX prototyping, design systems, interactive mockups, and user validation |
+| **Development** | Agile development, code reviews, documentation, and continuous integration |
+| **QA & Testing** | Unit testing, integration testing, security audits, performance benchmarking |
+| **Launch & Support** | Production deployment, monitoring, optimization, and ongoing technical support |
+
+---
+
+## Technology Stack
 
 <div align="center">
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js_v5-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_v7-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Cloud & DevOps
+**Infrastructure & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront_CDN-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### UI & Design
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide_Icons-F56565?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏗️ Platform Architecture
+## Platform Architecture
 
-Codewoom operates as a **three-tier production system**:
+Codewoom operates as an integrated three-tier system:
 
 ```
-┌─────────────────────────┐      ┌────────────────────────────┐
-│   🌐 Website (Next.js) │      |   🖥️ Dashboard (Next.js)   │
-│    Public Portfolio &    │      │    Admin Panel &          │
-│    Blog & Services       │      │    CRM & Analytics        │
-└────────────┬────────────┘      └────────────┬─────────────┘
-             │                                │
-             │         REST API / WebSocket   │
-             └──────────────┬─────────────────┘
-                            │
-                  ┌─────────▼──────────┐
-                  │  ⚙️ Backend (Express) │
-                  │   TypeScript API    │
-                  │   + BullMQ Workers  │
-                  └─────────┬──────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-         ┌────▼────┐  ┌─────▼────┐  ┌────▼────┐
-         │PostgreSQL│  │  Redis   │  │  AWS S3  │
-         │    DB    │  │  Cache   │  │  + CDN   │
-         └─────────┘  └──────────┘  └─────────┘
+┌──────────────────────┐      ┌──────────────────────┐
+│   Public Website     │      │  Admin Dashboard     │
+│   (Next.js)          │      │   (Next.js)          │
+│ Portfolio, Blog, CMS │      │ CRM, Analytics, CMS  │
+└──────────┬───────────┘      └──────────┬───────────┘
+           │                             │
+           └──────────────┬──────────────┘
+                          │
+                ┌─────────▼──────────┐
+                │  API Gateway       │
+                │  (Express.js)      │
+                │  TypeScript + BullMQ
+                └─────────┬──────────┘
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+   ┌────▼────┐       ┌────▼────┐      ┌────▼────┐
+   │PostgreSQL│       │ Redis   │      │ AWS S3  │
+   │Database  │       │ Cache   │      │ Storage │
+   └──────────┘       └─────────┘      └─────────┘
 ```
 
 | Layer | Technology | Purpose |
 |:---|:---|:---|
-| **Website** | Next.js 16, React 19, Framer Motion | Public-facing portfolio, blog, services, and lead capture |
-| **Dashboard** | Next.js 16, Redux Toolkit, Recharts | Internal admin panel — CRM, proposals, content management |
-| **Backend** | Express.js v5, Prisma v7, BullMQ | REST API, real-time messaging, background jobs, email automation |
-| **Database** | PostgreSQL | Persistent data storage with Prisma ORM |
+| **Frontend** | Next.js, React, TypeScript | Public portfolio, blog, content management, lead capture |
+| **Dashboard** | Next.js, React, Redux | Internal admin, CRM pipeline, analytics, proposal management |
+| **API** | Express.js, TypeScript, BullMQ | REST API, real-time services, job processing, automation |
+| **Database** | PostgreSQL, Prisma ORM | Persistent data storage with relational schema |
 | **Cache** | Redis | Session management, job queues, rate limiting |
-| **Storage** | AWS S3 + CloudFront | Media uploads with CDN delivery |
+| **Storage** | AWS S3 + CloudFront | Media delivery with CDN acceleration |
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🌐 Website
-- 🎬 **Cinematic Hero** — Animated gradient backgrounds, floating tech icons with parallax, and orbiting particles
-- 📂 **Dynamic Portfolio** — Slug-based project pages with image galleries, Markdown descriptions, and engagement stats
-- 📝 **Blog Platform** — Full blog with syntax highlighting, categories, and tags
-- 📞 **Smart Contact Form** — Lead capture with device fingerprinting (IP, OS, browser, device type)
-- 📬 **Newsletter System** — Email opt-in with one-click unsubscribe and automated project launch notifications
-- 🎨 **Dark / Light Mode** — System-aware theming with smooth transitions
-- 🔍 **SEO Optimized** — Meta tags, Open Graph, sitemap generation, and structured data
-- 🖱️ **Custom Cursor** — Interactive custom cursor for premium feel
-- 💬 **WhatsApp Integration** — Direct WhatsApp button for instant client communication
+### Website Platform
+- Modern, responsive design with dark/light mode support
+- Dynamic portfolio with project pages and engagement analytics
+- SEO-optimized blog with content management
+- Lead capture and contact management
+- Newsletter system with automation
+- WhatsApp integration for direct client communication
 
-### 🖥️ Dashboard
-- 📊 **Analytics Dashboard** — Real-time metrics, charts, and activity stats
-- 🗂️ **CRM Pipeline** — Full lead management: `NEW → CONTACTED → QUALIFIED → PROPOSAL → NEGOTIATION → WON/LOST`
-- 📋 **Proposal Tracking** — Create, send, and track proposals: `DRAFT → SENT → VIEWED → ACCEPTED/REJECTED`
-- ✍️ **Blog CMS** — Full CRUD for posts, categories, and tags with Markdown live preview
-- 👥 **Role-Based Access** — 5 admin roles: Superadmin, Admin, Moderator, Support, Editor
-- 💬 **Real-Time Chat** — Socket.IO-powered conversations between admins and clients
-- 🖥️ **Server Health Monitor** — Live server health stats endpoint
+### Admin Dashboard
+- Real-time analytics and performance metrics
+- CRM pipeline management (NEW → CONTACTED → QUALIFIED → PROPOSAL → WON/LOST)
+- Proposal creation, tracking, and client acceptance workflow
+- Blog and content management system
+- Role-based access control (5 permission levels)
+- Real-time admin chat and notifications
+- Server health monitoring and diagnostics
 
-### ⚙️ Backend
-- 🔐 **Zero-Trust Auth** — JWT access/refresh token rotation with per-device session management
-- 🛡️ **Two-Factor Authentication** — TOTP-based 2FA with QR code generation
-- 📧 **Email Automation** — Nodemailer + EJS templates for transactional and bulk emails
-- 🚀 **Background Jobs** — BullMQ queues for async email dispatch and newsletter delivery
-- 🖼️ **Content Moderation** — AWS Rekognition for automated image moderation
-- 📡 **API Documentation** — Auto-generated Swagger UI at `/docs`
-- 🐳 **Dockerized** — Full Docker + Docker Compose support for production deployment
+### Backend System
+- Zero-trust authentication with JWT token rotation
+- Two-factor authentication (TOTP-based)
+- Email automation with templating
+- Asynchronous background job processing
+- Image moderation via AWS Rekognition
+- Comprehensive API documentation
+- Docker containerization for production deployment
 
 ---
 
-## 💬 Get In Touch
+## Security & Compliance
+
+We maintain enterprise-grade security standards across all systems:
+
+- **Data Protection**: Encrypted data transmission (TLS), secure storage, regular backups
+- **Access Control**: Role-based permissions, multi-factor authentication, audit logging
+- **Infrastructure**: ISO 9001 certified processes, 99.9% uptime SLA
+- **Support**: 24/7 technical support, rapid incident response
+
+---
+
+## Contact
 
 <div align="center">
 
-We're always ready to discuss your next big idea.
-
 | Channel | Link |
 |:---|:---|
-| 🌐 **Website** | [codewoom.com](https://codewoom.com) |
-| 📧 **Email** | [support@codewoom.com](mailto:support@codewoom.com) |
-| 📸 **Instagram** | [@codewoom](https://www.instagram.com/codewoom) |
-| 💼 **Portfolio** | [codewoom.com/portfolio](https://codewoom.com/portfolio) |
-| 📝 **Blog** | [codewoom.com/blog](https://codewoom.com/blog) |
+| **Website** | [codewoom.com](https://codewoom.com) |
+| **Email** | [support@codewoom.com](mailto:support@codewoom.com) |
+| **Portfolio** | [codewoom.com/portfolio](https://codewoom.com/portfolio) |
+| **Blog** | [codewoom.com/blog](https://codewoom.com/blog) |
 
 </div>
 
@@ -230,22 +220,13 @@ We're always ready to discuss your next big idea.
 
 <div align="center">
 
-### 🔒 Security & Quality
-
-![ISO](https://img.shields.io/badge/ISO_9001-Certified_Quality-blue?style=flat-square)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=flat-square)
-![Security](https://img.shields.io/badge/Security-Enterprise_Grade-purple?style=flat-square)
-![Support](https://img.shields.io/badge/Support-24/7-orange?style=flat-square)
-
----
+**ISO 9001 Certified** | **99.9% Uptime SLA** | **Enterprise Security** | **24/7 Support**
 
 <sub>
 
-**Built with ❤️ by the Codewoom Team**
-
-*Architecting Digital Masterpieces — One Product at a Time*
-
 © 2024–2026 Codewoom. All rights reserved.
+
+Architecting Digital Solutions for Forward-Thinking Organizations.
 
 </sub>
 
